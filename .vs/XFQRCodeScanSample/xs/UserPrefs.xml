@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.XFQRCodeScanSample.Android PreferredExecutionTarget="Android.pixel_oreo" />
   <MonoDevelop.Ide.Workbench ActiveDocument="XFQRCodeScanSample/MainPage.xaml">
     <Files>
-      <File FileName="XFQRCodeScanSample/MainPage.xaml" Line="6" Column="58" />
+      <File FileName="XFQRCodeScanSample/MainPage.xaml" Line="15" Column="30" />
       <File FileName="XFQRCodeScanSample/MainPage.xaml.cs" Line="14" Column="35" />
       <File FileName="XFQRCodeScanSample/QRCodeScanPage.cs" Line="4" Column="29" />
       <File FileName="XFQRCodeScanSample.Android/MainActivity.cs" Line="1" Column="1" />
@@ -12,7 +12,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="XFQRCodeScanSample" expanded="True" selected="True" />
+          <Node name="XFQRCodeScanSample" expanded="True">
+            <Node name="Screenshot" selected="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
