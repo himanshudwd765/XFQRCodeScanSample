@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>get-task-allow</key>
+	<false/>
+	<key>application-identifier</key>
+	<string>3YYH3MTSSU.com.ecolab.apps.marketguard365</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>3YYH3MTSSU</string>
+	<key>aps-environment</key>
+	<string>production</string>
+	<key>com.apple.developer.default-data-protection</key>
+	<string>NSFileProtectionComplete</string>
+</dict>
+</plist>

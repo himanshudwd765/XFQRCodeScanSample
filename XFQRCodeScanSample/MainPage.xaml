@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" x:Class="XFQRCodeScanSample.MainPage">
+
+        <!-- Place new controls here -->
+        <Grid Padding="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackLayout Grid.Row="0"
+                         Spacing="0">
+                <Label Text="Scan the QR Code"
+                       VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="Center"
+                       FontSize="Large"
+                       FontAttributes="Italic"/>
+                <Image Source="qrcode"
+                       VerticalOptions="CenterAndExpand"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+            <StackLayout Grid.Row="1">
+                <Frame HorizontalOptions="Center"
+                       Padding="40,20,40,20"
+                       Margin="0,20,0,0"
+                       CornerRadius="20"
+                       HasShadow="False"
+                       BorderColor="gray">
+                    <Label Text="Scan QR"
+                           FontSize="Large"/>
+                    <Frame.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="QRCodeBtnTapped"/>
+                    </Frame.GestureRecognizers>
+                </Frame>
+            </StackLayout>
+        </Grid>
+
+</ContentPage>

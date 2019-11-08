@@ -1,0 +1,12 @@
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/bin/Debug/netstandard2.0/XFQRCodeScanSample.deps.json
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/bin/Debug/netstandard2.0/XFQRCodeScanSample.dll
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/bin/Debug/netstandard2.0/XFQRCodeScanSample.pdb
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XFQRCodeScanSample.csprojAssemblyReference.cache
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XFQRCodeScanSample.csproj.CoreCompileInputs.cache
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XFQRCodeScanSample.AssemblyInfoInputs.cache
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XFQRCodeScanSample.AssemblyInfo.cs
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XFQRCodeScanSample.dll
+/Users/dwivehi/Documents/XFQRCodeScanSample/XFQRCodeScanSample/obj/Debug/netstandard2.0/XFQRCodeScanSample.pdb
