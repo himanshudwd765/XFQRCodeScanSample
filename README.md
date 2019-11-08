@@ -3,3 +3,6 @@ This application is demonstration of using ZXing.Net.Mobile is a C#/.NET library
 implement the QR code scanning functionality.
 
 **Reference :** https://github.com/Redth/ZXing.Net.Mobile
+
+## iOS
+![iOS2](/QRDemo.gif)
