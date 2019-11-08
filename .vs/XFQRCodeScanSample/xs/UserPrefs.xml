@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{FDD80C58-5FF8-4557-B87C-17DA76763303}|Default">
+  <MonoDevelop.Ide.ItemProperties.XFQRCodeScanSample.Android PreferredExecutionTarget="Android.pixel_oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFQRCodeScanSample/MainPage.xaml">
+    <Files>
+      <File FileName="XFQRCodeScanSample/MainPage.xaml" Line="6" Column="58" />
+      <File FileName="XFQRCodeScanSample/MainPage.xaml.cs" Line="14" Column="35" />
+      <File FileName="XFQRCodeScanSample/QRCodeScanPage.cs" Line="4" Column="29" />
+      <File FileName="XFQRCodeScanSample.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="XFQRCodeScanSample.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XFQRCodeScanSample/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFQRCodeScanSample" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../abb/abb-mobile/ABBMobile/Services/TaskService.cs" line="73" offsetX="-1" offsetY="-1" expression="taskSyncResult" liveUpdate="False" />
+    <Watch file="../../../../abb/abb-mobile/ABBMobile/Pages/Steps/Report.xaml.cs" line="240" offsetX="-1" offsetY="-1" expression="Statements" liveUpdate="False" />
+    <Watch file="../../../../abb/abb-mobile/ABBMobile/Pages/Steps/Report.xaml.cs" line="240" offsetX="-1" offsetY="-1" expression="Statements" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XFQRCodeScanSample.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7F01E1B2-3C93-43A6-94C6-844C41176A5F" />
+</Properties>

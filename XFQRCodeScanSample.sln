@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFQRCodeScanSample.iOS", "X
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XFQRCodeScanSample", "XFQRCodeScanSample\XFQRCodeScanSample.csproj", "{ACA55424-5C8C-43ED-BC29-3E147F9CB847}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshot", "Screenshot", "{1599F56E-B149-4D45-B070-6DBE43A4F4FE}"
+	ProjectSection(SolutionItems) = preProject
+		QRDemo.gif = QRDemo.gif
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
