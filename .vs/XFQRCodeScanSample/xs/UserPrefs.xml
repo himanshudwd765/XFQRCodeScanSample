@@ -1,13 +1,14 @@
 ﻿<Properties StartupConfiguration="{FDD80C58-5FF8-4557-B87C-17DA76763303}|Default">
   <MonoDevelop.Ide.ItemProperties.XFQRCodeScanSample.Android PreferredExecutionTarget="Android.pixel_oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XFQRCodeScanSample/QRCodeScanPage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XFQRCodeScanSample.iOS/Info.plist">
     <Files>
-      <File FileName="XFQRCodeScanSample/MainPage.xaml" Line="6" Column="68" />
-      <File FileName="XFQRCodeScanSample/MainPage.xaml.cs" />
-      <File FileName="XFQRCodeScanSample/QRCodeScanPage.cs" Line="28" Column="1" />
-      <File FileName="XFQRCodeScanSample.Android/MainActivity.cs" />
-      <File FileName="XFQRCodeScanSample.iOS/AppDelegate.cs" />
-      <File FileName="XFQRCodeScanSample/App.xaml.cs" />
+      <File FileName="XFQRCodeScanSample/MainPage.xaml" Line="6" Column="58" />
+      <File FileName="XFQRCodeScanSample/MainPage.xaml.cs" Line="14" Column="35" />
+      <File FileName="XFQRCodeScanSample/QRCodeScanPage.cs" Line="4" Column="29" />
+      <File FileName="XFQRCodeScanSample.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="XFQRCodeScanSample.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XFQRCodeScanSample/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="XFQRCodeScanSample.iOS/Info.plist" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,12 +17,13 @@
             <Node name="XFQRCodeScanSample" expanded="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="QRCodeScanPage.cs" selected="True" />
             </Node>
             <Node name="XFQRCodeScanSample.Android" expanded="True">
               <Node name="Properties" expanded="True" />
             </Node>
-            <Node name="XFQRCodeScanSample.iOS" expanded="True" />
+            <Node name="XFQRCodeScanSample.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
